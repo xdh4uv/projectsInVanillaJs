@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.text{
+    justify-content: center;
+    padding: 100px;
+    border: 1px solid black;
+    margin: 50px;
+}
+
+.user-Text{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+    margin-bottom: 10%;
+    width: 100%;
+    padding-top: 100px;
+    align-items: center;
+
+}
+.control-buttons{
+    display: flex;
+    flex-direction: row;
+}
